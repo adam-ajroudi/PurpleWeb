@@ -24,7 +24,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone [https://github.com/your-username/purple-web.git](https://github.com/adamajroudi/PurpleWeb/)
+git clone https://github.com/adamajroudi/PurpleWeb/
 Navigate to the project directory:
 
 bash
